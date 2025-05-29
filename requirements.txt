@@ -1,0 +1,10 @@
+langchain-core
+langchain-openai
+langchain-llms
+langchain==0.0.195
+langchain-community==0.1.11
+openai==0.27.8
+wikipedia-api==0.5.4
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==1.10.12
